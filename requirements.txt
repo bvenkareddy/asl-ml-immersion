@@ -11,3 +11,4 @@ cloudml-hypertune
 
 # Requirements for NLP labs
 tensorflow_text==2.8.2
+
